@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 📫 How to reach me: [https://busgo.github.io/zh-cn/](https://busgo.github.io/zh-cn/)
+- 📫 How to reach me: [https://busgo.github.io](https://busgo.github.io)
 
 <!-- 
 <h2>🏆 Github Profile Trophy</h2>
